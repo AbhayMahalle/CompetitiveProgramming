@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
+## String
+|  |
+| ------- |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+## Greedy
+|  |
+| ------- |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 <!---LeetCode Topics End-->
