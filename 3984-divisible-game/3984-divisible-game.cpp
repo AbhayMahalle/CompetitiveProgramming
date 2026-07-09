@@ -1,7 +1,7 @@
 class Solution {
 public:
     int divisibleGame(vector<int>& nums) {
-        int maxi = *max_element(nums.begin(), nums.end()) + 100;
+        int maxi = *max_element(nums.begin(), nums.end())+10;
         vector<bool> primes(maxi+1, true);
         primes[0] = false;
         primes[1] = false;
@@ -18,20 +18,16 @@ public:
         for(int i=0; i<=maxi; i++){
             if(primes[i]){
                 long long k = i;
-                vector<int> temp = nums;
-                for(auto &n : temp){
+                long long maxSum = LLONG_MIN, cur = 0;
+                for(int &n : nums){
                     if(n%k){
-                        n = -n;
+                        cur -= n;
                     }
-                }
-                long long maxSum = temp[0], cur = 0;
-                for(int n : temp){
-                    cur += n;
+                    else cur += n;
                     maxSum = max(maxSum, cur);
                     if(cur<0) cur = 0;
                     
                 }
-                bestdiff = bestdiff % (long long)(1e9+7);
                 if(bestdiff<maxSum){
                     bestdiff = maxSum;
                     bestk = k;
@@ -41,8 +37,8 @@ public:
                 }
             }
         }
-        long long res = (1LL*bestdiff*bestk)%(long long)(1LL*(1e9+7));
+        long long res = (1LL*bestdiff*bestk)%mod;
         if(res<0) res += mod;
-        return res%(long long)(1LL*(1e9+7));
+        return res%mod;
     }
 };
