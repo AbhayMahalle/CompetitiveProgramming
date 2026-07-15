@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 <!---LeetCode Topics End-->
