@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
