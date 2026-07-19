@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -147,9 +149,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
