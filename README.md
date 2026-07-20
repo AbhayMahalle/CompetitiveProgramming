@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 ## Stack
 |  |
 | ------- |
