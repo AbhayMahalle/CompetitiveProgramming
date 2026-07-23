@@ -4,9 +4,11 @@ public:
         int n = nums.size();
         if(n<=2) return n;
         int maxi = n;
-        for(int i=n; i>=1; i--){
-            maxi = max(maxi, i^n);
+        int cur = 1;
+        while(cur<n){
+            cur *= 2;
         }
-        return maxi+1;
+        if(cur==n) return cur*2;
+        return cur;
     }
 };
