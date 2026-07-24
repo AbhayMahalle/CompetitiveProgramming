@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3093-longest-common-suffix-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3093-longest-common-suffix-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [3093-longest-common-suffix-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3093-longest-common-suffix-queries) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
