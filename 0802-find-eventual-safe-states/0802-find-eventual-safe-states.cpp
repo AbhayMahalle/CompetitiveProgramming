@@ -1,35 +1,40 @@
 class Solution {
 public:
-    bool dfs(int i, vector<int> &vis, vector<int>& pathVis, vector<vector<int>>& graph) {
-        vis[i] = 1;
-        pathVis[i] = 1;
-        for(auto v : graph[i]){
-            if(!vis[v]){
-                if(dfs(v, vis, pathVis, graph)) return true;
-            }
-            else if(pathVis[v]){
-                return true;
-            }
-        }
-        pathVis[i] = 0;
-        return false;
-    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<bool> safe(n, false);
-        int i = 0;
-        for(auto &v : graph){
-            if(v.empty()){
-                safe[i] = true;
+        vector<int> degree(n, 0);
+        vector<vector<int>> edges(n);
+        for(int i=0; i<n; i++){
+            for(int j=0; j<graph[i].size(); j++){
+                edges[graph[i][j]].push_back(i);
             }
-            i++;
+        }
+        for(int i = 0; i<n ;i++){
+            for(auto e : edges[i]){
+                degree[e]++;
+            }
         }
         vector<int> res;
+        queue<int> q;
         for(int i=0; i<n; i++){
-            vector<int> vis(n, false);
-            vector<int> pathVis(n, false);
-            if(!dfs(i, vis, pathVis, graph)) res.push_back(i);
+            cout << degree[i] << " ";
+            if(!degree[i]){
+                q.push(i);
+                res.push_back(i);
+            }
         }
+        while(!q.empty()){
+            int t = q.front();
+            q.pop();
+            for(auto e : edges[t]){
+                degree[e]--;
+                if(degree[e]==0){
+                    q.push(e);
+                    res.push_back(e);
+                }
+            }
+        }
+        sort(res.begin(), res.end());
         return res;
     }
 };
