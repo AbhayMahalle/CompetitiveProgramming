@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3093-longest-common-suffix-queries) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
