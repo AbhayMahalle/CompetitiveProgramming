@@ -1,20 +1,18 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        vector<int> freq(26, 0);
-        for(char c : word){
-            freq[c-'a']++;
-        }
-        sort(freq.begin(), freq.end(), greater<int>());
+        int len = word.size();
         int cur = 1;
-        int key = 8;
         int res = 0;
-        for(int f : freq){
-            res += (cur*f);
-            key--;
-            if(key==0){
-                key = 8;
+        while(len){
+            if(len/8){
+                res += (cur*8);
+                len -= 8;
                 cur++;
+            }
+            else {
+                res += (cur*len);
+                len = 0;
             }
         }
         return res;
