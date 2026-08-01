@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
+| [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
+| [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
