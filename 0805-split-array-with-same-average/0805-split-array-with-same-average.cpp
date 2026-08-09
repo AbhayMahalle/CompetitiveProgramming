@@ -23,8 +23,8 @@ public:
                     vector<long long> &rightVals = rightSum[j];
                     int s = rightVals.size();
                     int k = i + j;
-                    if(k==0 || k==n || (total*k)%n) continue;
-                    int target = (total*k)/n - left;
+                    if(k==0 || k==n || (total*k - n*left) % n ) continue;
+                    int target = (total*k - n*left) / n ;
                     auto idx = lower_bound(rightVals.begin(), rightVals.end(), target) - rightVals.begin();
                     if(idx < s &&  rightVals[idx]==target) {
                         return true;
