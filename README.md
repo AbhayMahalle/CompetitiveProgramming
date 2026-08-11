@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -390,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
