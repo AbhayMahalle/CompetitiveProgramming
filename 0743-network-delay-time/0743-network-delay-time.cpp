@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> solve(int n, int k, vector<vector<int>>& edge){
+    int solve(int n, int k, vector<vector<int>>& edge){
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         vector<int> dist(n+1, 1e9);
         dist[0] = 0;
@@ -21,11 +21,10 @@ public:
                 }
             }
         }
-        return dist;
+        return *max_element(dist.begin(), dist.end());
     }
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<int> dist = solve(n, k, times);
-        int delayTime = *max_element(dist.begin(), dist.end());
+        int delayTime = solve(n, k, times);
         return delayTime==1e9 ? -1 : delayTime;
     }
 };
