@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<vector<int>> dist(n, vector<int>(k+2, INT_MAX));
+        vector<vector<int>> dist(n, vector<int>(k+1, INT_MAX));
         dist[src][0] = 0;
         priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
         pq.push({0, 0, src});
