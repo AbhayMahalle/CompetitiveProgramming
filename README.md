@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3161-block-placement-queries) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
 | ------- |
