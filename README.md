@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -391,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
