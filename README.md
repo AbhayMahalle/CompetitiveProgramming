@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
+| [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3513-number-of-unique-xor-triplets-i) |
