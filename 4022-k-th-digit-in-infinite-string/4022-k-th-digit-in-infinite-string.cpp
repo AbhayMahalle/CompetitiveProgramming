@@ -1,31 +1,29 @@
 class Solution {
 public:
     int kthDigit(long long k) {
-        if(k<=9) return k;
-        k = k - 9;
+        long long d = 1;
         long long st = 1;
-        while(true){
-            long long d = to_string(1LL*10*st).size();
-            long long total = 1LL * 9 * st * 10 * d;
-            if(k>total){
-                k -= total;
-                st *= 10;
-                continue;
-            }
-            long long b = (k-1)/(10*d) + st;
-            long long pos = (k-1)%(10*d);
-            long long idx = pos/d;
-            long long dig = pos%d;
-            long long num;
-            if(b%2){
-                num = 10*b + 9 - idx;
-            }
-            else {
-                num = 10*b + idx;
-            }
-            string s = to_string(num);
-            return s[dig] - '0';
+        long long total = 9;
+        while (k > total) {
+            k -= total;
+            d++;
+            st *= 10;
+            total = 9LL * d * st;
         }
-        return -1;
+        if (d == 1)
+            return k;
+        long long blockSize = 10 * d;
+        long long blockIndex = (k - 1) / blockSize;
+        long long b = st/10 + blockIndex;
+        long long pos = (k - 1) % blockSize;
+        long long idx = pos / d;
+        long long digitPos = pos % d;
+        long long number;
+        if (b % 2 == 0)
+            number = 10 * b + idx;
+        else
+            number = 10 * b + 9 - idx;
+
+        return to_string(number)[digitPos]-'0';
     }
 };
