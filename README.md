@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
@@ -472,4 +477,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
