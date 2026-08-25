@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4027-elevator-requests-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4027-elevator-requests-iii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Binary Search
 |  |
