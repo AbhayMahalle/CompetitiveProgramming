@@ -11,8 +11,8 @@ public:
             for(int j=i; j<n; j++){
                 curStr += s[j];
                 if(s[j]=='1') oneCnt++;
-                if(oneCnt>k) break;
-                if(oneCnt==k && (shortestBeautiful == "" || shortestBeautiful.size()>=curStr.size())){
+                if(oneCnt>k || (shortestBeautiful != "" && shortestBeautiful.size()<curStr.size())) break;
+                if(oneCnt==k){
                     if(shortestBeautiful.size()==curStr.size()) {
                         shortestBeautiful = min(shortestBeautiful, curStr);
                     }
