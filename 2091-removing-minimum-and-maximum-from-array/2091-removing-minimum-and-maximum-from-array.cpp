@@ -12,7 +12,6 @@ public:
                 maxi = i;
             }
         }
-        cout << mini << " " << maxi << endl;
         int front = max(mini, maxi)+1;
         int back = n - min(mini, maxi);
         int frontBack = (min(mini, maxi)+1) + (n-max(mini, maxi));
