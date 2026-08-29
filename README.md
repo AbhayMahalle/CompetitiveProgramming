@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4027-elevator-requests-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4027-elevator-requests-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4022-k-th-digit-in-infinite-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3536-maximum-product-of-two-digits) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4027-elevator-requests-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4027-elevator-requests-iii) |
 ## Counting
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
