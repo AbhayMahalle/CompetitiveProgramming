@@ -1,32 +1,27 @@
 class Solution {
 public:
-    string removeDuplicateLetters(string s) {
-        int n = s.size();
+    string removeDuplicateLetters(string str) {
         unordered_map<char, int> freq, taken;
-        for(int i=n-1; i>=0; i--){
-           freq[s[i]]++; 
-        }
-        string st = "";
-        for(char c : s){
+        for(char &c : str) freq[c]++;
+        string s = "";
+        for(char &c : str){
             freq[c]--;
-            if(st.size()==0) {
-                st.push_back(c);
-                taken[c]++;
-            }
-            else if(st.back()>c && taken.count(c)==0){
-                while(!st.empty() && st.back()>c && freq[st.back()]){
-                    taken.erase(st.back());
-                    st.pop_back();
+            if(!s.empty() && taken[c]==0 && s.back()>c && freq[s.back()]>0){
+                while(!s.empty() && s.back()>c && freq[s.back()]>0){
+                    cout << s.back() << " ";
+                    taken[s.back()]--;
+                    s.pop_back();
                 }
-                st.push_back(c);
-                taken[c]++;
-            } 
-            else if(taken.count(c)==0){
-                st.push_back(c);
+                s.push_back(c);
+                cout << s.back() << endl;
                 taken[c]++;
             }
-
+            else if(taken[c]==0){
+                s.push_back(c);
+                cout << s.back() << endl;
+                taken[c]++;
+            }
         }
-        return st;
+        return s;
     }
 };
