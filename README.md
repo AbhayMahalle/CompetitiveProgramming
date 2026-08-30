@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -366,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Sliding Window
 |  |
 | ------- |
