@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3875-construct-uniform-parity-array-i) |
 | [4027-elevator-requests-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4027-elevator-requests-iii) |
 ## Math
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3875-construct-uniform-parity-array-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Design
 |  |
