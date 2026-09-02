@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0164-maximum-gap) |
+| [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
+| [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -539,4 +542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
