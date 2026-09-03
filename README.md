@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1035-uncrossed-lines) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
