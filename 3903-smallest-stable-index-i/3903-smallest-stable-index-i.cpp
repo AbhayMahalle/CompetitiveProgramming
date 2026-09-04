@@ -11,7 +11,8 @@ public:
         int mx = 0;
         for(int i=0; i<n; i++){
             mx = max(mx, nums[i]);
-            if(mx-suffix[i]<=k) return i;
+            int score = mx - suffix[i];
+            if(score<=k) return i;
         }
         return -1;
     }
