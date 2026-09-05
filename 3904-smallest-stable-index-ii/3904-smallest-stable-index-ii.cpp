@@ -2,20 +2,25 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        int ans = 0;
-        int maxSoFar = INT_MIN;
-        int maxAtAns = INT_MIN;
+
+        int ansIdx = 0;         // index we're currently testing as the answer
+        int globalMax = INT_MIN;          // biggest number seen anywhere so far
+        int ansMax = INT_MIN;   // biggest number up to ansIdx
 
         for (int i = 0; i < n; i++) {
-            maxSoFar = max(maxSoFar, nums[i]);
-            if (i == ans) {
-                maxAtAns = max(maxAtAns, nums[i]);
-            }
-            if (nums[i] < maxAtAns - k) {
-                ans = i + 1;
-                maxAtAns = maxSoFar;
+            globalMax = max(globalMax, nums[i]);
+
+            // only update the candidate's max while we're still inside its prefix
+            if (i == ansIdx)
+                ansMax = max(ansMax, nums[i]);
+
+            // this number is below the allowed floor, jump past it
+            if (nums[i] < ansMax - k) {
+                ansIdx = i + 1;
+                ansMax = globalMax;
             }
         }
-        return ans < n ? ans : -1;
+
+        return ansIdx < n ? ansIdx : -1;
     }
 };
