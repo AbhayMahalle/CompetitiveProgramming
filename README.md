@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
