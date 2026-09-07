@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0664-strange-printer) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1049-last-stone-weight-ii) |
