@@ -1,13 +1,24 @@
 class Solution {
 public:
     long long countCommas(long long n) {
-        if(n<=999) return 0;
-        long long cnt = 0;
-        long long start = 1000;
-        while(start<=n){
-            cnt += (n-start+1);
-            start *= 1000;
+        if (n <= 999) return 0;
+
+        long long totalCommas = 0;
+        long long rangeStart = 1000;
+        long long rangeEnd = rangeStart*1000-1;
+        int commas = 1;
+
+        while(rangeStart <= n){
+            if(n >= rangeStart && n <= rangeEnd){
+                totalCommas += 1LL * commas * (n - rangeStart + 1);
+                break;
+            }
+            totalCommas += 1LL * commas * (rangeEnd - rangeStart + 1);
+
+            rangeStart = rangeStart * 1000;
+            rangeEnd = rangeStart*1000-1;
+            commas++;
         }
-        return cnt;
+        return totalCommas;
     }
 };
