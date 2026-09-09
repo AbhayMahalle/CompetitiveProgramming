@@ -1,18 +1,5 @@
 class Solution {
 public:
-    vector<int> dp;
-    int solve(int i, int n, vector<pair<int, int>>& ranges){
-        if(i>=n) return 0;
-        if(dp[i]!=-1) return dp[i];
-        auto p = ranges[i];
-        int l = p.first, r = p.second;
-        int take = 0;
-        if(l!=-1){
-            take = 1 + solve(r+1, n, ranges);
-        }
-        int notTake = solve(i+1, n, ranges);
-        return dp[i] = max(take, notTake);
-    }
     int maxPalindromes(string s, int k) {
         int n = s.size();
         if(k==1) return n;
@@ -48,8 +35,17 @@ public:
                 else break;
             }
         }
-        dp.resize(n, -1);
-        return solve(0, n, ranges);
-        
+        int res = 0;
+        int i = 0;
+        while(i<n){
+            auto p = ranges[i];
+            int l = p.first, r = p.second;
+            if(l!=-1){
+                res++;
+                i = r+1;
+            }
+            else i++;
+        }
+        return res;
     }
 };
