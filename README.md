@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
 ## Dijkstra's Algorithm
 |  |
@@ -610,10 +612,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
@@ -631,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
