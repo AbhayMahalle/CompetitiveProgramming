@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2685-count-the-number-of-complete-components) |
@@ -612,4 +615,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
