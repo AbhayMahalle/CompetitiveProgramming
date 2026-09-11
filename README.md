@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0400-nth-digit](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0400-nth-digit) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-reducing-dishes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
