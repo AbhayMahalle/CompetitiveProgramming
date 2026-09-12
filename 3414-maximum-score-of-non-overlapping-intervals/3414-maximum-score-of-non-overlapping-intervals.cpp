@@ -2,43 +2,20 @@ class Solution {
 public:
     using P = pair<long long, vector<int>>;
 
-    vector<tuple<int,int,int>> intervals;
-    vector<int> nextIndex;
-    vector<vector<P>> dp;
-    map<tuple<int,int,int>, int> originalIndex;
-
-    P solve(int i, int k) {
-        if (i == intervals.size() || k == 0)
-            return {0, {}};
-
-        if (dp[i][k].first != -1)
-            return dp[i][k];
-
-        P skip = solve(i + 1, k);
-
-        auto [left, right, weight] = intervals[i];
-
-        P take = solve(nextIndex[i], k - 1);
-        
-        take.first -= weight;
-        take.second.push_back(originalIndex[{left, right, weight}]);
-        sort(take.second.begin(), take.second.end());
-
-        return dp[i][k] = min(skip, take);
-    }
-
     vector<int> maximumWeight(vector<vector<int>>& a) {
-        for (int i = 0; i < a.size(); i++){
-            if(originalIndex.find({a[i][0], a[i][1], a[i][2]})!=originalIndex.end())
+        map<tuple<int,int,int>, int> originalIndex;
+        for (int i = 0; i < (int)a.size(); i++) {
+            if (originalIndex.find({a[i][0], a[i][1], a[i][2]}) != originalIndex.end())
                 continue;
             originalIndex[{a[i][0], a[i][1], a[i][2]}] = i;
         }
 
+        vector<tuple<int,int,int>> intervals;
         for (auto &[interval, index] : originalIndex)
             intervals.push_back(interval);
 
         int n = intervals.size();
-        nextIndex.resize(n);
+        vector<int> nextIndex(n);
 
         for (int i = 0; i < n; i++) {
             auto [left, right, weight] = intervals[i];
@@ -49,7 +26,24 @@ public:
             ) - intervals.begin();
         }
 
-        dp.assign(n, vector<P>(5, {-1, {}}));
-        return solve(0, 4).second;
+        vector<vector<P>> dp(n + 1, vector<P>(5, {0, {}}));
+
+        for (int i = n - 1; i >= 0; i--) {
+            auto [left, right, weight] = intervals[i];
+            int idx = originalIndex[{left, right, weight}];
+
+            for (int k = 1; k <= 4; k++) {
+                P skip = dp[i + 1][k];
+
+                P take = dp[nextIndex[i]][k - 1];
+                take.first -= weight;
+                take.second.push_back(idx);
+                sort(take.second.begin(), take.second.end());
+
+                dp[i][k] = min(skip, take);
+            }
+        }
+
+        return dp[0][4].second;
     }
 };
