@@ -13,7 +13,7 @@ public:
             return dp[i][k];
         }
         P skip = solve(i+1, k);
-        auto [l, r, w] = intervals[i];
+        auto &[l, r, w] = intervals[i];
         P take = solve(nxtIndex[i], k-1);
         take.second.push_back(originalIndex[intervals[i]]);
         sort(take.second.begin(), take.second.end());
@@ -24,7 +24,7 @@ public:
         else if(skip.first>take.first){
             return dp[i][k] = skip;
         }
-        return min(take, skip);
+        return dp[i][k] = min(take, skip);
     }
     vector<int> maximumWeight(vector<vector<int>>& a) {
         for(int i=0; i<a.size(); i++){
@@ -33,13 +33,13 @@ public:
             }
             originalIndex[{a[i][0], a[i][1], a[i][2]}] = i;
         }
-        for(auto [interval, index] : originalIndex){
+        for(auto &[interval, index] : originalIndex){
             intervals.push_back(interval);
         }
         int n = intervals.size();
         nxtIndex.resize(n, n);
         for(int i=0; i<n; i++){
-            auto [l, r, w] = intervals[i];
+            auto &[l, r, w] = intervals[i];
             nxtIndex[i] = upper_bound(intervals.begin(), intervals.end(), 
                 make_tuple(r, INT_MAX, INT_MAX)) - intervals.begin();
         }
