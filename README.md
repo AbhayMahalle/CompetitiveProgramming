@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3161-block-placement-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3536-maximum-product-of-two-digits) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3161-block-placement-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4022-k-th-digit-in-infinite-string) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3524-find-x-value-of-array-i) |
 | [4027-elevator-requests-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/4027-elevator-requests-iii) |
 ## Bit Manipulation
