@@ -17,8 +17,8 @@ public:
         unordered_map<int, int> frequency;
         int maxOverlap = 0;
 
-        for (auto [r1, c1] : ones1) {
-            for (auto [r2, c2] : ones2) {
+        for (auto &[r1, c1] : ones1) {
+            for (auto &[r2, c2] : ones2) {
                 int dr = r1 - r2;
                 int dc = c1 - c2;
                 int key = dr * 100 + dc;
