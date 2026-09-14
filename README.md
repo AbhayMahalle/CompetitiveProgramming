@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3161-block-placement-queries) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
