@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2008-maximum-earnings-from-taxi) |
 | [2029-stone-game-ix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
+| [2008-maximum-earnings-from-taxi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2008-maximum-earnings-from-taxi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2008-maximum-earnings-from-taxi) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
 | [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2054-two-best-non-overlapping-events) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
