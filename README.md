@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1402-reducing-dishes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1402-reducing-dishes) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1402-reducing-dishes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
