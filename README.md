@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1872-stone-game-viii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3903-smallest-stable-index-i) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1690-stone-game-vii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1755-closest-subsequence-sum) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Brainteaser
 |  |
