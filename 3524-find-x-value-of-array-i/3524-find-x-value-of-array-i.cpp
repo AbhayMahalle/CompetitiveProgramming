@@ -2,19 +2,20 @@ class Solution {
 public:
     using ll = long long;
     int n;
-    ll solve(int i, int preProd, int r, int k, vector<int>&nums, vector<vector<ll>> &dp){
-        if(i==n) return 0;
-        if(dp[i][preProd]!=-1) return dp[i][preProd];
-        ll take = 0, notTake = 0;
-        if(preProd==k){
-            take = (r==nums[i]) + solve(i+1, nums[i], r, k, nums, dp);
-            notTake = solve(i+1, k, r, k, nums, dp);
+    ll solve(int i, int prevProd, int req, int k, auto&nums, auto& dp){
+        if(i>=nums.size()) return 0;
+        if(dp[i][prevProd]!=-1) return dp[i][prevProd];
+        ll skip = 0, take = 0;
+        if(prevProd==k){
+            skip = solve(i+1, k, req, k, nums, dp);
         }
-        else {
-            ll newPro = (preProd * nums[i]) % k;
-            take = (newPro==r) + solve(i+1, newPro, r, k, nums, dp);
+        ll curProd = 1;
+        if(prevProd==k){
+            curProd = nums[i];
         }
-        return dp[i][preProd] = take + notTake;
+        else curProd = (prevProd*nums[i]) % k;
+        take += (curProd==req) + solve(i+1, curProd, req, k, nums, dp);
+        return dp[i][prevProd] = take + skip;
     }
     vector<ll> resultArray(vector<int>& nums, int k) {
         n = nums.size();
