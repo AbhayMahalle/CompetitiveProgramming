@@ -2,57 +2,48 @@ class Solution {
 public:
     vector<string> maxNumOfSubstrings(string s) {
         int n = s.size();
+        vector<int> first(26, n);
+        vector<int> last(26, -1);
 
-        unordered_map<char, int> first, last;
-        for(int i=0; i<n; i++){
-            if(first.find(s[i])!=first.end()){
-                last[s[i]] = i;
-            }
-            else {
-                first[s[i]] = i;
-                last[s[i]] = i;
-            }
+        for(int i = 0; i < n; i++){
+            int c = s[i] - 'a';
+            first[c] = min(first[c], i);
+            last[c] = i;
         }
-        vector<string> res;
-        vector<pair<int, int>> ranges;
 
-        for(char c='a'; c<='z'; c++){
-            if(first.find(c)!=first.end()){
-                int l = first[c];
-                int r = last[c];
+        vector<pair<int, int>> intervals;
 
-                bool valid = true;
+        for(int c = 0; c < 26; c++){
+            if (last[c] == -1) continue;
+            int l = first[c];
+            int r = last[c];
+            bool valid = true;
 
+            for(int i = l; i <= r; i++){
+                int x = s[i] - 'a';
+                if(first[x] < l){
+                    valid = false;
+                    break;
+                }
                 // Dynamically expand r
-                for(int i=l; i<=r; i++){
-                    if(first[s[i]] < l){
-                        valid = false;
-                        break;
-                    }
-                    r = max(r, last[s[i]]);
-                }
-
-                if(valid){
-                    ranges.push_back({r, l});
-                }
+                r = max(r, last[x]);
             }
+            if(valid) intervals.push_back({r, l});
         }
 
-        // Sort according to right endpoint
-        sort(ranges.begin(), ranges.end());
+        // Sort by ending position
+        sort(intervals.begin(), intervals.end());
 
-        for(auto [r, l] : ranges){
-            cout << l << " " << r << endl;
-        }
-        // Select maximum non-overlapping substrings
+        vector<string> ans;
         int prevEnd = -1;
-        for(auto [r, l] : ranges){
+
+        // Greedily select intervals with earliest ending position
+        for(auto [r, l] : intervals){
             if(l > prevEnd){
-                res.push_back(s.substr(l, r-l+1));
+                ans.push_back(s.substr(l, r - l + 1));
                 prevEnd = r;
             }
         }
-
-        return res;
+        return ans;
     }
 };
