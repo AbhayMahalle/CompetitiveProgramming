@@ -35,12 +35,6 @@ public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
         DisJointSet *ds = new DisJointSet(n);
-        map<pair<int, int>, int> id;
-        for(int i=0; i<n; i++){
-            int p = stones[i][0];
-            int q = stones[i][1];
-            id[{p, q}] = i;
-        }
         for(int i=0; i<n; i++){
             int r = stones[i][0];
             int c = stones[i][1];
