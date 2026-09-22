@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3525-find-x-value-of-array-ii) |
 | [3527-find-the-most-common-response](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
