@@ -34,13 +34,9 @@ public:
             ds->unionSize(s1[i], s2[i]);
             ds->unionSize(s2[i], s1[i]);
         } 
-        for(char c='a'; c<='z'; c++){
-            cout << ds->uparent(c) << " ";
-        }
         string res;
         for(char c : baseStr){
             res.push_back(ds->uparent(c));
-            //cout << ds->uparent(c) << endl;
         }
         return res;
     }
