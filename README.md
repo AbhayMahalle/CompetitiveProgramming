@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0721-accounts-merge) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0940-distinct-subsequences-ii) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
