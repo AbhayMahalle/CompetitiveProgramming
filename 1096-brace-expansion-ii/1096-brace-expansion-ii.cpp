@@ -1,26 +1,19 @@
 class Solution {
-    set<string> ans;
-
+    unordered_map<string, int> ans;
     void dfs(string s) {
         int r = s.find('}');
-
-        // No braces left
         if(r == string::npos){
-            ans.insert(s);
+            ans[s]++;
             return;
         }
 
-        // Find matching '{'
         int l = s.rfind('{', r);
 
-        // Parts around { ... }
         string left = s.substr(0, l);
         string right = s.substr(r + 1);
 
-        // Content inside { ... }
         string inside = s.substr(l + 1, r - l - 1);
 
-        // Split by ','
         string part;
         stringstream ss(inside);
 
@@ -32,6 +25,9 @@ class Solution {
 public:
     vector<string> braceExpansionII(string expression) {
         dfs(expression);
-        return vector<string>(ans.begin(), ans.end());
+        vector<string> res;
+        for(auto &p : ans) res.push_back(p.first);
+        sort(res.begin(), res.end());
+        return res;
     }
 };
