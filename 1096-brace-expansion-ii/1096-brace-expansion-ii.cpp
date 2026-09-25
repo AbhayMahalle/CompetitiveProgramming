@@ -1,9 +1,9 @@
 class Solution {
-    unordered_map<string, int> ans;
+    vector<string> ans;
     void dfs(string s) {
         int r = s.find('}');
         if(r == string::npos){
-            ans[s]++;
+            ans.push_back(s);
             return;
         }
 
@@ -25,9 +25,8 @@ class Solution {
 public:
     vector<string> braceExpansionII(string expression) {
         dfs(expression);
-        vector<string> res;
-        for(auto &p : ans) res.push_back(p.first);
-        sort(res.begin(), res.end());
-        return res;
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+        return ans;
     }
 };
