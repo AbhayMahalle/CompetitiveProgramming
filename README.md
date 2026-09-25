@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0721-accounts-merge) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1631-path-with-minimum-effort) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -593,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
+| [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
