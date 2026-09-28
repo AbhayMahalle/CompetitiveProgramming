@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1927-sum-game) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -778,4 +780,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
