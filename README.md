@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0164-maximum-gap](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0164-maximum-gap) |
 | [0474-ones-and-zeroes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0486-predict-the-winner) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0721-accounts-merge) |
@@ -735,12 +737,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
@@ -789,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
