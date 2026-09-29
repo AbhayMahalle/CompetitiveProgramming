@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0721-accounts-merge) |
@@ -733,11 +734,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0098-validate-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
