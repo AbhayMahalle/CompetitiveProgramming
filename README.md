@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0920-number-of-music-playlists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1140-stone-game-ii) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1406-stone-game-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0781-rabbits-in-forest) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/AbhayMahalle/CompetitiveProgramming/tree/master/1402-reducing-dishes) |
